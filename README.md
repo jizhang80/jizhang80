@@ -2,6 +2,7 @@ Hello! 👋
 
 I'm a __full-stack engineer__ focus on __MERN__ stack. I'd like to build application base on __Tailwindcss/Next.js/React.js and Express.js/Node.js__ platform.  
 
+<!-- comment
 I was a software/QA engineer DBA and system engineer for the past 20 years. Specialized in system building, diagnostic and optimization in traditional enterprise IT high-availability environments, Linux/Unix, Server/Storage hardware/software especially Oracle enterprise-level database systems.  
 
 My career finally reached its peak in the IBM mainframe advanced technical support team(2012-2016), and at the same time, with the advent of the cloud era, it also came to an end.  
@@ -15,7 +16,7 @@ I have completed the Harvard University CS50x, CS50python and CS50web courses an
 My job role development targets __independent contractors, start-ups and small and medium-sized enterprises__.   
 
 I hope to grow quickly by accumulating __end-to-end practical experience__, and ultimately achieve the goal of quickly delivering customer needs.  
-
+-->
 
 <!--
 **jizhang80/jizhang80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
