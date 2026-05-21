@@ -1,6 +1,6 @@
 Hello! 👋  
 
-I'm a __full-stack engineer__ focus on __MERN__ stack. I'd like to build application base on __Tailwindcss/Next.js/React.js and Express.js/Node.js__ platform.  
+I'm an __AI tech Advisor__ . I'd like to build AI application for __Small Business__ by using __Claude Code__.  
 
 <!-- comment
 I was a software/QA engineer DBA and system engineer for the past 20 years. Specialized in system building, diagnostic and optimization in traditional enterprise IT high-availability environments, Linux/Unix, Server/Storage hardware/software especially Oracle enterprise-level database systems.  
